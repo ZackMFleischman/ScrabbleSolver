@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-class Scrabble {
+class ScrabbleSolver {
     static void Main(string[] args) {
         string letters = args[0]; // You may assume this is a string of 7 characters in the range [a-z].
         string[] allScrabbleWords = _LoadScrabbleDictionary();
