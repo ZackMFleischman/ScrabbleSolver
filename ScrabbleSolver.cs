@@ -16,7 +16,6 @@ class ScrabbleSolver {
             Console.WriteLine(word);
     }
 
-    
     //
     // Please implement this function.
     //
