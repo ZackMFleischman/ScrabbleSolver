@@ -1,0 +1,10 @@
+/Users/zack/ScrabbleSolver/bin/Debug/netcoreapp2.0/scrabblesolver.deps.json
+/Users/zack/ScrabbleSolver/bin/Debug/netcoreapp2.0/scrabblesolver.runtimeconfig.json
+/Users/zack/ScrabbleSolver/bin/Debug/netcoreapp2.0/scrabblesolver.runtimeconfig.dev.json
+/Users/zack/ScrabbleSolver/bin/Debug/netcoreapp2.0/scrabblesolver.dll
+/Users/zack/ScrabbleSolver/bin/Debug/netcoreapp2.0/scrabblesolver.pdb
+/Users/zack/ScrabbleSolver/obj/Debug/netcoreapp2.0/scrabblesolver.csproj.CoreCompileInputs.cache
+/Users/zack/ScrabbleSolver/obj/Debug/netcoreapp2.0/scrabblesolver.AssemblyInfoInputs.cache
+/Users/zack/ScrabbleSolver/obj/Debug/netcoreapp2.0/scrabblesolver.AssemblyInfo.cs
+/Users/zack/ScrabbleSolver/obj/Debug/netcoreapp2.0/scrabblesolver.dll
+/Users/zack/ScrabbleSolver/obj/Debug/netcoreapp2.0/scrabblesolver.pdb

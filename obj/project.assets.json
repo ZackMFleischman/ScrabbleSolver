@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zack/repos/strypes/scrabble/scrabble.csproj",
-      "projectName": "scrabble",
-      "projectPath": "/Users/zack/repos/strypes/scrabble/scrabble.csproj",
+      "projectUniqueName": "/Users/zack/ScrabbleSolver/scrabblesolver.csproj",
+      "projectName": "scrabblesolver",
+      "projectPath": "/Users/zack/ScrabbleSolver/scrabblesolver.csproj",
       "packagesPath": "/Users/zack/.nuget/packages/",
-      "outputPath": "/Users/zack/repos/strypes/scrabble/obj/",
+      "outputPath": "/Users/zack/ScrabbleSolver/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
